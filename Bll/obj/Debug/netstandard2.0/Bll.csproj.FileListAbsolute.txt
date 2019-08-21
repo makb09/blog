@@ -1,0 +1,12 @@
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\bin\Debug\netstandard2.0\Bll.deps.json
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\bin\Debug\netstandard2.0\Bll.dll
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\obj\Debug\netstandard2.0\Bll.csprojAssemblyReference.cache
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\obj\Debug\netstandard2.0\Bll.csproj.CoreCompileInputs.cache
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\obj\Debug\netstandard2.0\Bll.AssemblyInfoInputs.cache
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\obj\Debug\netstandard2.0\Bll.AssemblyInfo.cs
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\bin\Debug\netstandard2.0\Bll.pdb
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\bin\Debug\netstandard2.0\Dal.dll
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\bin\Debug\netstandard2.0\Dal.pdb
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\obj\Debug\netstandard2.0\Bll.csproj.CopyComplete
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\obj\Debug\netstandard2.0\Bll.dll
+C:\Users\Akbudak\Desktop\Blog\Blog\Bll\obj\Debug\netstandard2.0\Bll.pdb

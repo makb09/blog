@@ -1,0 +1,61 @@
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Request starting HTTP/1.1 GET http://localhost:49978/api  
+Log Level : Information | Event ID : 24 | Event Name :  | Formatter : No cached response available for this request.
+Log Level : Information | Event ID : 27 | Event Name :  | Formatter : The response could not be cached for this request.
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Request finished in 610.6868ms 404 
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Request starting HTTP/1.1 GET http://localhost:49978/api/articles/list application/json 103
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Successfully validated the token.
+Log Level : Information | Event ID : 3 | Event Name :  | Formatter : Route matched with {action = "GetArticle", controller = "Articles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Bll.Entity.Models.Article]]] GetArticle() on controller Blog.Controllers.ArticlesController (Blog).
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Authorization was successful.
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Executing action method Blog.Controllers.ArticlesController.GetArticle (Blog) - Validation state: Valid
+Log Level : Information | Event ID : 10403 | Event Name : Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized | Formatter : Entity Framework Core 2.2.6-servicing-10079 initialized 'Context' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Log Level : Information | Event ID : 20101 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted | Formatter : Executed DbCommand (147ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Id], [a].[ArticleCategoryId], [a].[AuthorId], [a].[Content], [a].[InsertDate], [a].[IsActive], [a].[IsDeleted], [a].[Title], [a].[UpdateDate]
+FROM [Article] AS [a]
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Executed action method Blog.Controllers.ArticlesController.GetArticle (Blog), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2376.6641ms.
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Bll.Entity.Models.Article, Bll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Executed action Blog.Controllers.ArticlesController.GetArticle (Blog) in 3166.0918ms
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Request finished in 3461.0375ms 200 application/json; charset=utf-8
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Request starting HTTP/1.1 GET http://localhost:49978/api/articles/list application/json 103
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Successfully validated the token.
+Log Level : Information | Event ID : 3 | Event Name :  | Formatter : Route matched with {action = "GetArticle", controller = "Articles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Bll.Entity.Models.Article]]] GetArticle() on controller Blog.Controllers.ArticlesController (Blog).
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Authorization was successful.
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Executing action method Blog.Controllers.ArticlesController.GetArticle (Blog) - Validation state: Valid
+Log Level : Information | Event ID : 10403 | Event Name : Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized | Formatter : Entity Framework Core 2.2.6-servicing-10079 initialized 'Context' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Log Level : Information | Event ID : 20101 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted | Formatter : Executed DbCommand (99ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Id], [a].[ArticleCategoryId], [a].[AuthorId], [a].[Content], [a].[InsertDate], [a].[IsActive], [a].[IsDeleted], [a].[Title], [a].[UpdateDate]
+FROM [Article] AS [a]
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Executed action method Blog.Controllers.ArticlesController.GetArticle (Blog), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 142.0276ms.
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Bll.Entity.Models.Article, Bll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Executed action Blog.Controllers.ArticlesController.GetArticle (Blog) in 360.6849ms
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Request finished in 441.9455ms 200 application/json; charset=utf-8
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Request starting HTTP/1.1 GET http://localhost:49978/api/articles/list application/json 103
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Successfully validated the token.
+Log Level : Information | Event ID : 3 | Event Name :  | Formatter : Route matched with {action = "GetArticle", controller = "Articles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.IEnumerable`1[Bll.Entity.Models.Article]]] GetArticle() on controller Blog.Controllers.ArticlesController (Blog).
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Authorization was successful.
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Executing action method Blog.Controllers.ArticlesController.GetArticle (Blog) - Validation state: Valid
+Log Level : Information | Event ID : 10403 | Event Name : Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized | Formatter : Entity Framework Core 2.2.6-servicing-10079 initialized 'Context' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Log Level : Information | Event ID : 20101 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted | Formatter : Executed DbCommand (67ms) [Parameters=[], CommandType='Text', CommandTimeout='30']
+SELECT [a].[Id], [a].[ArticleCategoryId], [a].[AuthorId], [a].[Content], [a].[InsertDate], [a].[IsActive], [a].[IsDeleted], [a].[Title], [a].[UpdateDate]
+FROM [Article] AS [a]
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Executed action method Blog.Controllers.ArticlesController.GetArticle (Blog), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 96.4063ms.
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Executing ObjectResult, writing value of type 'System.Collections.Generic.List`1[[Bll.Entity.Models.Article, Bll, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Executed action Blog.Controllers.ArticlesController.GetArticle (Blog) in 192.4962ms
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Request finished in 292.088ms 200 application/json; charset=utf-8
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Request starting HTTP/1.1 POST http://localhost:49978/api/articles application/json 103
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Successfully validated the token.
+Log Level : Information | Event ID : 3 | Event Name :  | Formatter : Route matched with {action = "PostArticle", controller = "Articles"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Bll.Entity.Models.Article]] PostArticle(Bll.Entity.Models.Article) on controller Blog.Controllers.ArticlesController (Blog).
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Authorization was successful.
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Executing action method Blog.Controllers.ArticlesController.PostArticle (Blog) - Validation state: Valid
+Log Level : Information | Event ID : 10403 | Event Name : Microsoft.EntityFrameworkCore.Infrastructure.ContextInitialized | Formatter : Entity Framework Core 2.2.6-servicing-10079 initialized 'Context' using provider 'Microsoft.EntityFrameworkCore.SqlServer' with options: None
+Log Level : Information | Event ID : 20101 | Event Name : Microsoft.EntityFrameworkCore.Database.Command.CommandExecuted | Formatter : Executed DbCommand (102ms) [Parameters=[@p0='?' (DbType = Int32), @p1='?' (DbType = Int32), @p2='?' (Size = 4000), @p3='?' (DbType = DateTime2), @p4='?' (DbType = Boolean), @p5='?' (DbType = Boolean), @p6='?' (Size = 100), @p7='?' (DbType = DateTime2)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Article] ([ArticleCategoryId], [AuthorId], [Content], [InsertDate], [IsActive], [IsDeleted], [Title], [UpdateDate])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+SELECT [Id]
+FROM [Article]
+WHERE @@ROWCOUNT = 1 AND [Id] = scope_identity();
+Log Level : Information | Event ID : 0 | Event Name :  | Formatter : Id:2 makale kaydedildi.
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Executed action method Blog.Controllers.ArticlesController.PostArticle (Blog), returned result Microsoft.AspNetCore.Mvc.CreatedAtActionResult in 512.0641ms.
+Log Level : Information | Event ID : 1 | Event Name :  | Formatter : Executing ObjectResult, writing value of type 'Bll.Entity.Models.Article'.
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Executed action Blog.Controllers.ArticlesController.PostArticle (Blog) in 643.747ms
+Log Level : Information | Event ID : 2 | Event Name :  | Formatter : Request finished in 769.7727ms 201 application/json; charset=utf-8
