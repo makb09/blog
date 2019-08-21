@@ -14,7 +14,9 @@
  </p>
 
 <p>
-Authentication yapısı JWT ile oluşturulmuştur. Makale ve yorumlara ait bilgiler authentication dan sonra erişilebilecek şekilde tasarlanmıştır. Ancak authentication sonrasında oluşan token ile yapılan servis istekleri karşılanmaktadır. Authentication için aşağıdaki linke emailAddress ve password bilgilerini içeren post isteği gönderilmelidir. Başarılı olursa token üretilir. 
+Authentication yapısı JWT ile oluşturulmuştur. Makale ve yorumlara ait bilgiler authentication dan sonra erişilebilecek şekilde tasarlanmıştır. Ancak authentication sonrasında oluşan token ile yapılan servis istekleri karşılanmaktadır. Authentication için aşağıdaki linke aşağıdaki emailAddress ve password bilgilerini içeren post isteği gönderilmelidir. Başarılı olursa token üretilir. 
+   <p><b>Email adresi:</b> admin@admin.com<p>
+   <p><b>Şifre:</b> 1 </p> 
 </p>
 <p><b>http://localhost:49978/api/authentication/login</b></p>
 <p>
