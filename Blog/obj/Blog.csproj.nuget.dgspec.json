@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Blog\\Blog.csproj": {}
+    "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Blog\\Blog.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Bll\\Bll.csproj": {
+    "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Bll\\Bll.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Bll\\Bll.csproj",
+        "projectUniqueName": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Bll\\Bll.csproj",
         "projectName": "Bll",
-        "projectPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Bll\\Bll.csproj",
+        "projectPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Bll\\Bll.csproj",
         "packagesPath": "C:\\Users\\Akbudak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Bll\\obj\\",
+        "outputPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Bll\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj": {
-                "projectPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj"
+              "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj": {
+                "projectPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Blog\\Blog.csproj": {
+    "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Blog\\Blog.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Blog\\Blog.csproj",
+        "projectUniqueName": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Blog\\Blog.csproj",
         "projectName": "Blog",
-        "projectPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Blog\\Blog.csproj",
+        "projectPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Blog\\Blog.csproj",
         "packagesPath": "C:\\Users\\Akbudak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Blog\\obj\\",
+        "outputPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Blog\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -102,11 +102,11 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Bll\\Bll.csproj": {
-                "projectPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Bll\\Bll.csproj"
+              "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Bll\\Bll.csproj": {
+                "projectPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Bll\\Bll.csproj"
               },
-              "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj": {
-                "projectPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj"
+              "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj": {
+                "projectPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj"
               }
             }
           }
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj": {
+    "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj",
+        "projectUniqueName": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj",
         "projectName": "Dal",
-        "projectPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj",
+        "projectPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj",
         "packagesPath": "C:\\Users\\Akbudak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\obj\\",
+        "outputPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

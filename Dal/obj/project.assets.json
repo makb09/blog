@@ -2712,11 +2712,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj",
+      "projectUniqueName": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj",
       "projectName": "Dal",
-      "projectPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\Dal.csproj",
+      "projectPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\Dal.csproj",
       "packagesPath": "C:\\Users\\Akbudak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Akbudak\\Desktop\\Blog\\Blog\\Dal\\obj\\",
+      "outputPath": "C:\\Users\\Akbudak\\Desktop\\BlogApi\\blog\\Dal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
